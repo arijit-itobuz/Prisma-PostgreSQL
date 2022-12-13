@@ -18,7 +18,7 @@
 - yarn prisma init
 - npx tsc --init
 - yarn prisma db push
-- npx prisma migrate dev --name init
+- npx prisma migrate dev --name <migration_name>
 - npx prisma studio
 
 ## Server
